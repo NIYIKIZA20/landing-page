@@ -32,12 +32,14 @@
   flex-direction: column;
   padding-left: 15%;
   font-size: 18px;
-  line-height: 1.5em;
+  line-height: 1em;
+  
 }
 .title {
   font-size: 48px;
   line-height: 1em;
   padding-top: 30px;
+  margin: 0px;
 }
 
 .body {
